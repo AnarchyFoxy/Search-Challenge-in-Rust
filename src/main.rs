@@ -60,5 +60,5 @@ fn main() {
     // Test the function with the example input
     let input = "Today, is the greatest day ever!";
     let output = searching_challenge(input);
-    println!("{}", output); // Output: "greatestegfXhXstegfs90hz78bgreatestegfXhXstegfs90hz78b"
+    println!("{}", output); // Output: "grXatXstXgfX90Xz7XbgrXatXstXgfX90Xz7Xb"
 }
